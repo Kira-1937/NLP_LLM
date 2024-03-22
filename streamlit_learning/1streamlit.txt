@@ -1,0 +1,30 @@
+link for documentation:
+https://docs.streamlit.io/library/advanced-features/caching
+
+
+
+
+Streamlit is an open-source Python library that allows you to create web applications for data science and 
+machine learning projects quickly and easily. With Streamlit, you can create interactive web apps using simple
+ Python scripts.
+
+Here are some key features of Streamlit:
+
+Simplicity: Streamlit simplifies the process of creating web apps by providing a high-level API that allows you
+ to create interactive elements such as sliders, buttons, and plots using just a few lines of code.
+
+Fast prototyping: With Streamlit, you can quickly prototype and iterate on your ideas without the need for 
+complex web development frameworks or tools.
+
+Integration with popular libraries: Streamlit integrates seamlessly with popular Python libraries such as Pandas, 
+Matplotlib, and Plotly, making it easy to create interactive visualizations and dashboards.
+
+Automatic widget updates: Streamlit automatically updates the widgets in your app when their values change, 
+providing a responsive and interactive user experience.
+
+Deployment: Streamlit apps can be deployed easily on various platforms, including Streamlit sharing, Heroku,
+ AWS, and Google Cloud.
+
+Overall, Streamlit is a powerful tool for creating data-driven web applications with minimal effort, making it a 
+favorite among data scientists and machine learning engineers for showcasing their work and building interactive 
+demos.
