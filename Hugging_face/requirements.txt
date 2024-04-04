@@ -1,0 +1,5 @@
+streamlit  #for showing dashborad
+python-dotenv # for pip installing requiremts.txt file in cmd 
+langchain #for reading the pdf
+transformers
+scipy 
