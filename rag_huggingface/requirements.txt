@@ -1,0 +1,2 @@
+transformers
+faiss-cpu  # for cpu will be used 
