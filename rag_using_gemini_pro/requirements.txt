@@ -3,3 +3,7 @@ langchain-google-genai
 python-dotenv
 pillow
 requests 
+langchain 
+pandas
+pypdf
+chromadb
