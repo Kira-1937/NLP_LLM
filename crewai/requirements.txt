@@ -1,0 +1,9 @@
+crewai
+crewai[tools]
+python-dotenv 
+Flask 
+PyMuPDF
+streamlit
+langchain_community
+google-generativeai # This is a placeholder, replace it with the actual package name if available
+
