@@ -13,7 +13,7 @@ This project analyzes a sample blood test report, searches the internet for rele
 
 
 ## Folder Structure:
-         health_analysis_project/
+health_analysis_project/
 ├── agents/
 │   ├── analyst.py
 │   ├── researcher.py
