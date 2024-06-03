@@ -11,8 +11,9 @@ This project analyzes a sample blood test report, searches the internet for rele
     ```bash
     cd AI_Assignment
 
+## Folder Structure
 
-## Folder Structure:
+```
 health_analysis_project/
 ├── agents/
 │   ├── analyst.py
@@ -31,7 +32,7 @@ health_analysis_project/
 ├── main.py
 ├── requirements.txt
 └── .env
-
+```
 ## Usage
 ## Installation
 Ensure you have Python installed. Then, create a virtual environment and install the required dependencies:
