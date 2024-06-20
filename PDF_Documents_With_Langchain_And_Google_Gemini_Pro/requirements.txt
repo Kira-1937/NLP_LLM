@@ -6,3 +6,5 @@ PyPDF2 #for reading the pdf
 chromadb #for reading the pdf
 faiss-cpu  # for cpu will be used 
 langchain_google_genai # for using  api and langchain properties
+langchain_community
+streamlit-extras
