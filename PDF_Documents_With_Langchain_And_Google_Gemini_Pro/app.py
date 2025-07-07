@@ -1,4 +1,4 @@
-import streamlit as st
+
 from PyPDF2 import PdfReader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 import os
@@ -9,6 +9,18 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain.chains.question_answering import load_qa_chain
 from langchain.prompts import PromptTemplate
 from dotenv import load_dotenv
+
+
+import streamlit as st
+
+
+
+# Get the PORT from the environment variable, default to 8501
+port = int(os.environ.get("PORT", 8501))
+
+# Set the server port
+st.set_option('server.port', port)
+
 
 load_dotenv()
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
@@ -36,7 +48,7 @@ def get_vector_store(text_chunks):
 def get_conversational_chain():
     prompt_template = """   
     Answer the question as detailed as possible from the provided context. If the answer is not in
-    the provided context, just say, "answer is not available in the context". Do not provide a wrong answer.\n\n
+    the provided context, just say, “Sorry, I didn’t understand your question. Do you want to connect with a live agent?”. Do not provide a wrong answer.\n\n
     Context:\n {context}?\n
     Question: \n{question}\n
     Answer:

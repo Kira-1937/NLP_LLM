@@ -1,0 +1,10 @@
+streamlit  #for showing dashborad
+google-generativeai #for using gemini pro
+python-dotenv # for pip installing requiremts.txt file in cmd 
+langchain #for reading the pdf
+PyPDF2 #for reading the pdf
+chromadb #for reading the pdf
+faiss-cpu  # for cpu will be used 
+langchain_google_genai # for using  api and langchain properties
+langchain_community
+streamlit-extras

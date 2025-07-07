@@ -61,18 +61,3 @@ scipy.io.wavfile.write("bark_out.wav", rate=speech["sampling_rate"], data=speech
 
 
 
-
-
-
-
-
-# processor = AutoProcessor.from_pretrained("suno/bark-small")
-# model = BarkModel.from_pretrained("suno/bark-small")
-
-# # To add a voice preset, you can pass `voice_preset` to `BarkProcessor.__call__(...)`
-# voice_preset = "v2/en_speaker_6"
-
-# inputs = processor(generated_text, voice_preset=voice_preset)
-
-# audio_array = model.generate(**inputs, semantic_max_new_tokens=100)
-# audio_array = audio_array.cpu().numpy().squeeze()
