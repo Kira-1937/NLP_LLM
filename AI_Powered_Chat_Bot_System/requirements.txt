@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pymongo
+pdfminer.six
+opencv-python
+tensorflow
+beautifulsoup4
+requests
+openai
+llama-index
+python-dotenv
