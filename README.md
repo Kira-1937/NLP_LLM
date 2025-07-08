@@ -1,3 +1,4 @@
 "# NLP_LLM" 
-It is my learning of NLP and LLM.
-All these a my learning 
+It is my learning of NLP , NN ,Transformers and  LLM.
+
+
