@@ -1,14 +1,3 @@
-datasets 
-pandas
-pymongo 
-sentence_transformers
-transformers
-accelerate
-python-dotenv
-pymongo
-# PyMongo: A Python library for interacting with MongoDB that enables functionalities to connect to a cluster and query data stored in collections and documents.
-# Pandas: Provides a data structure for efficient data processing and analysis using Python
-# Hugging Face datasets: Holds audio, vision, and text datasets
-# Hugging Face Accelerate: Abstracts the complexity of writing code that leverages hardware accelerators such as GPUs. Accelerate is leveraged in the implementation to utilise the Gemma model on GPU resources.
-# Hugging Face Transformers: Access to a vast collection of pre-trained models
-# Hugging Face Sentence Transformers: Provides access to sentence, text, and image embeddings.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b11398419d01e01945195d82bb615f2aef33f37108885e31a778b99525ddfc3
+size 808

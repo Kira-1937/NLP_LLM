@@ -1,11 +1,3 @@
-fastapi
-uvicorn
-pymongo
-pdfminer.six
-opencv-python
-tensorflow
-beautifulsoup4
-requests
-openai
-llama-index
-python-dotenv
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bf0f3d4af9dba8f26b473fc4abfbb19ad3c37412487ae9f675be89901a7a135
+size 130

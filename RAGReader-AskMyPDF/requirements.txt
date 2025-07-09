@@ -1,10 +1,3 @@
-streamlit  #for showing dashborad
-google-generativeai #for using gemini pro
-python-dotenv # for pip installing requiremts.txt file in cmd 
-langchain #for reading the pdf
-PyPDF2 #for reading the pdf
-chromadb #for reading the pdf
-faiss-cpu  # for cpu will be used 
-langchain_google_genai # for using  api and langchain properties
-langchain_community
-streamlit-extras
+version https://git-lfs.github.com/spec/v1
+oid sha256:91303b99237efa585435b1c3d5cf0ccd5490b2db3080e2d2609f10f23557f6de
+size 373

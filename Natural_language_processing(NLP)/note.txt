@@ -1,2 +1,3 @@
-The quick brown fox jumps over the lazy dog. 
-Dogs are friendly animals.
+version https://git-lfs.github.com/spec/v1
+oid sha256:60069121234726f5229dab8ed401fe00fd954c83dd903fc561c8be7d3ae8ae7d
+size 73

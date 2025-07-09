@@ -1,5 +1,3 @@
-streamlit 
-google-generativeai
-python-dotenv
-
-# wordle env pe chala le
+version https://git-lfs.github.com/spec/v1
+oid sha256:a985f8bc83002625980e8e0dabfb63ea1bdb0900d38c5e1fbddc1d2c0223955a
+size 76

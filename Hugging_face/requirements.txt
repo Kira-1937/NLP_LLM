@@ -1,5 +1,3 @@
-streamlit  #for showing dashborad
-python-dotenv # for pip installing requiremts.txt file in cmd 
-langchain #for reading the pdf
-transformers
-scipy 
+version https://git-lfs.github.com/spec/v1
+oid sha256:42f717d4708ffcbb9dbd8deba7e7f6e6a6b4ea441819362312b91f767a9e9387
+size 153

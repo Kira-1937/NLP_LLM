@@ -1,9 +1,3 @@
-crewai
-crewai[tools]
-python-dotenv 
-Flask 
-PyMuPDF
-streamlit
-langchain_community
-google-generativeai # This is a placeholder, replace it with the actual package name if available
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6be715159bb9722c3db7e30e3cd9d0b066ec95ca452de26a009d855fa56df48
+size 189

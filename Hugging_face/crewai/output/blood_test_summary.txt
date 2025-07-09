@@ -1,3 +1,3 @@
-The patient's blood test results show normal cholesterol levels, normal blood sugar levels, and low hemoglobin levels.
-Additional markers indicate signs of anemia. It is recommended that the patient undergoes further tests to evaluate the 
-cause of anemia and consider lifestyle changes to improve their overall health.
+version https://git-lfs.github.com/spec/v1
+oid sha256:515675dea02e4d9a6565bcfa7c185c1e8b64fedde91bc723ea5cf6bee23de601
+size 321

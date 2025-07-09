@@ -1,9 +1,3 @@
-google-generativeai
-langchain-google-genai
-python-dotenv
-pillow
-requests 
-langchain 
-pandas
-pypdf
-chromadb
+version https://git-lfs.github.com/spec/v1
+oid sha256:50b9aa603697cb54a9e1430f65e3587a0a210e1f180a1426c08d65bff4abd327
+size 114
