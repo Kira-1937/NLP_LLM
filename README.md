@@ -75,6 +75,14 @@ Each project is carefully crafted to solve real-world problems and demonstrate k
 - Inspired by best practices from real-world projects
 
 ---
+### 💬 Sentiment Classification using RNN
+📂 /RNN_name_classification
+Developed an RNN-based text classification pipeline to predict sentiment polarity of user reviews
+Applied text preprocessing steps: cleaning, tokenization, stopword removal, and sequence padding
+Achieved high classification accuracy with PyTorch and Scikit-learn workflows
+Tech Stack: PyTorch, Scikit-learn, NLTK
+
+---
 
 ### 🤖 RAG with Gemini Pro
 📂 [`/rag_using_gemini_pro`](./rag_using_gemini_pro)  
@@ -90,15 +98,6 @@ Each project is carefully crafted to solve real-world problems and demonstrate k
 - Vector store: **MongoDB** + FAISS  
 - Demonstrates full-stack RAG application
 
----
-
-### 💻 Streamlit Learning
-📂 [`/streamlit_learning`](./streamlit_learning)  
-- Beginner to intermediate Streamlit apps  
-- Interactive UI building and data visualization  
-- Projects: App layout, button actions, text input forms
-
----
 
 ### 🤖 Talk with Google Gemini
 📂 [`/Talk_with_Google_Gemini`](./Talk_with_Google_Gemini)  
@@ -115,6 +114,21 @@ Each project is carefully crafted to solve real-world problems and demonstrate k
 - Includes Jupyter notebooks for reproducibility
 
 ---
+###🌐 Bi-Lingual Sequence Modeling with LSTM
+📂 /LSTM_eng_to_hindi_translate
+English-to-Hindi language translation using many-to-many LSTM sequence modeling
+Integrated attention mechanism and word embeddings for improved context capture
+Built using PyTorch, Seq2Seq framework, NLTK, and TorchText
+---
+###📈 LSTM-based Amazon Stock Forecasting
+📂 /LSTM_amazon_stock_forecasting
+Built a time series forecasting model using LSTM to predict Amazon stock prices
+Captured long-term trends and short-term dependencies from historical data
+Visualized training performance and forecast accuracy with Matplotlib
+Tech Stack: PyTorch, NumPy, Pandas, Matplotlib, Scikit-learn
+---
+
+
 
 ## 🛠️ Tech Stack
 
@@ -136,11 +150,13 @@ Each project is carefully crafted to solve real-world problems and demonstrate k
 ├── legal_assistant/
 ├── pytorch_learning/
 ├── pytorch-deep-learning/
-├── rag_using_gemini_pro/
+├── RNN_name_classification/
 ├── rag_with_hugging_face_gemma_mongodb/
-├── streamlit_learning/
+├── rag_using_gemini_pro/
 ├── transformers_in_NLP/
 ├── Talk_with_Google_Gemini/
+├── LSTM_eng_to_hindi_translate/
+├── LSTM_amazon_stock_forecasting/
 
 
 
