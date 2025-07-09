@@ -5,7 +5,6 @@ Welcome! This repository showcases my practical journey and hands-on projects in
 Each project is designed to solve real-world problems and demonstrate technical depth across diverse domains.
 
 ---
-
 ## 📌 Project Highlights
 
 | Project | Description |
@@ -16,11 +15,15 @@ Each project is designed to solve real-world problems and demonstrate technical 
 | **legal_assistant** | NLP-based assistant for legal document understanding. |
 | **pytorch_learning** | Foundational PyTorch notebooks for deep learning. |
 | **pytorch-deep-learning** | Modular PyTorch pipelines with loaders, engine, and training loop. |
+| **RNN_name_classification** | Sentiment analysis using RNN for user review classification. |
+| **LSTM_eng_to_hindi_translate** | English-Hindi translation using LSTM with attention. |
+| **LSTM_amazon_stock_forecasting** | LSTM-based time series forecasting on Amazon stock data. |
 | **rag_using_gemini_pro** | RAG pipeline using Google Gemini Pro for document QA. |
 | **rag_with_hugging_face_gemma_mongodb** | Document QA with Hugging Face Gemma models + MongoDB. |
 | **streamlit_learning** | Interactive web apps built using Streamlit. |
-| **transformers_in_NLP** | Vision Transformers applied on classification datasets. |
+| **transformers_in_NLP** | Vision Transformers applied to classification datasets. |
 | **Talk_with_Google_Gemini** | Gemini Pro integration into a custom chatbot. |
+
 
 ---
 
